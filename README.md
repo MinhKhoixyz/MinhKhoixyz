@@ -28,7 +28,6 @@
 ### Frameworks & Technologies
 
 ![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) <br>
-_Java Servlets | JSP_
 
 ### Developer Tools & Databases
 
@@ -44,7 +43,6 @@ _Java Servlets | JSP_
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MinhKhoixyz&show_icons=true&theme=tokyonight&hide_border=true&title_color=36BCF7" height="150" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinhKhoixyz&layout=compact&theme=tokyonight&hide_border=true&title_color=36BCF7" height="150" alt="Top Languages" />
-  
 </div>
 
 <br>
