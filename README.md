@@ -2,8 +2,9 @@
   <img src="https://media.giphy.com/media/qgQUggCGvnkNC/giphy.gif" width="200">
   
   <h1>Hi, I'm Mkhoi 👋</h1>
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Development;Passionate+about+Java+%26+Spring+Boot;Strong+foundation+in+OOP+%26+DSA;Constantly+learning+and+building+new+things!)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Development;Passionate+about+Java+%26+Spring+Boot;Strong+foundation+in+OOP+%26+DSA;Constantly+learning+and+building+new+things!)](https://git.io/typing-svg)
+
 </div>
 
 ---
@@ -43,6 +44,7 @@ _Java Servlets | JSP_
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MinhKhoixyz&show_icons=true&theme=tokyonight&hide_border=true&title_color=36BCF7" height="150" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinhKhoixyz&layout=compact&theme=tokyonight&hide_border=true&title_color=36BCF7" height="150" alt="Top Languages" />
+  
 </div>
 
 <br>
