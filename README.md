@@ -51,8 +51,8 @@ _Java Servlets | JSP_
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MinhKhoixyz&theme=tokyonight&hide_border=true&title_color=36BCF7" alt="GitHub Streak" />
 </div>
 
----
+<br>
 
 <div align="center">
-  <em>⭐️ Let's connect and build something awesome together! ⭐️</em>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MinhKhoixyz&theme=tokyo-night&hide_border=true&color=36BCF7" alt="Activity Graph" />
 </div>
