@@ -42,13 +42,18 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MinhKhoixyz&show_icons=true&theme=tokyonight&hide_border=true&title_color=36BCF7" height="150" alt="GitHub Stats" />
+</div>
+
+<br>
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinhKhoixyz&layout=compact&theme=tokyonight&hide_border=true&title_color=36BCF7" height="150" alt="Top Languages" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MinhKhoixyz&theme=tokyonight&hide_border=true&title_color=36BCF7" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=MinhKhoixyz&theme=tokyonight&hide_border=true&title_color=36BCF7" alt="GitHub Streak" />
 </div>
 
 <br>
