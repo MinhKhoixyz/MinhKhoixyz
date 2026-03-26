@@ -1,8 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggCGvnkNC/giphy.gif" width="200">
   
-  <h1>Hi, I'm Mkhoi 👋</h1>
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Development;Passionate+about+Java+%26+Spring+Boot;Strong+foundation+in+OOP+%26+DSA;Constantly+learning+and+building+new+things!)](https://git.io/typing-svg)
 
 </div>
