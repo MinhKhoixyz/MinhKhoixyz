@@ -1,6 +1,6 @@
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Development;Passionate+about+Java+%26+Spring+Boot;Strong+foundation+in+OOP+%26+DSA;Constantly+learning+and+building+new+things!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Development;Just+a+normal+developer)](https://git.io/typing-svg)
 
 </div>
 
@@ -8,15 +8,21 @@
 
 ## 🚀 About Me
 
-- 🎓 I am a passionate Software Engineering student.
-- 🌱 Currently deep diving into **Object-Oriented Programming (OOP)** and **Data Structures & Algorithms (DSA)**.
-- 💡 Always looking for opportunities to solve complex problems and write clean, efficient code!
+> Crafting robust backend systems and intuitive web experiences with clean, efficient code.
+
+I'm a **Software Developer** passionate about building scalable and production-ready applications. With a strong academic background (GPA 9.0+), my expertise lies in:
+
+- ⚙️ **Backend** - RESTful APIs, MVC Pattern (**Java, Spring Boot**)
+- 🎨 **Frontend** - SPA, Responsive UI (**Vue.js, JS, Bootstrap**)
+- 🗄️ **Database** - Relational & NoSQL (**SQL Server, MongoDB**)
+- 🏗️ **Core** - Clean Code, **OOP & DSA**
+- 🛠️ **Workflow** - Version Control, API Testing (**Git, Postman**)
+
+📫 Reach me at: **khoivm1228@gmail.com**
 
 ---
 
-## 💻 Technical Skills
-
-<div align="center">
+## 🛠️ Tech Stack
 
 ### Languages
 
@@ -28,10 +34,8 @@
 
 ### Developer Tools & Databases
 
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) <br>
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-</div>
 
 ---
 
@@ -57,4 +61,10 @@
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MinhKhoixyz&theme=tokyo-night&hide_border=true&color=36BCF7" alt="Activity Graph" />
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-trophies.vercel.app/?username=MinhKhoixyz&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
 </div>
