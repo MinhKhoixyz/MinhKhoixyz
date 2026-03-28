@@ -42,12 +42,6 @@ I'm a **Software Developer** passionate about building scalable and production-r
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MinhKhoixyz&show_icons=true&theme=tokyonight&hide_border=true&title_color=36BCF7" height="150" alt="GitHub Stats" />
-</div>
-
-<br>
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinhKhoixyz&layout=compact&theme=tokyonight&hide_border=true&title_color=36BCF7" height="150" alt="Top Languages" />
 </div>
 
