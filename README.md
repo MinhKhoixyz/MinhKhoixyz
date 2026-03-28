@@ -14,7 +14,7 @@ I'm a **Software Developer** passionate about building scalable and production-r
 
 - ⚙️ **Backend** - RESTful APIs, MVC Pattern (**Java, Spring Boot**)
 - 🎨 **Frontend** - SPA, Responsive UI (**Vue.js, JS, Bootstrap**)
-- 🗄️ **Database** - Relational & NoSQL (**SQL Server, MongoDB**)
+- 🗄️ **Database** - SQL & NoSQL (**SQL Server, MongoDB**)
 - 🏗️ **Core** - Clean Code, **OOP & DSA**
 - 🛠️ **Workflow** - Version Control, API Testing (**Git, Postman**)
 
