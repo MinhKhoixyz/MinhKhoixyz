@@ -14,8 +14,8 @@ jobs:
         with:
           github_user_name: MinhKhoixyz
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            # Bản này sẽ có con rắn màu xanh dương và các chấm đóng góp cùng tông
+            dist/github-contribution-grid-snake.svg?color_snake=#36BCF7&color_dots=#161b22,#213147,#294e77,#36BCF7,#82d5f9
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
