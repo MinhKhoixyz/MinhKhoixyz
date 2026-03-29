@@ -1,64 +1,46 @@
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Development;Just+a+normal+developer)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Mkhoi;Java+Backend+Development;Building+with+Spring+Boot+%26+Vue.js)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🚀 About Me
+### 🛠 Tech Stack
 
-> Crafting robust backend systems and intuitive web experiences with clean, efficient code.
-
-I'm a **Software Developer** passionate about building scalable and production-ready applications. With a strong academic background (GPA 9.0+), my expertise lies in:
-
-- ⚙️ **Backend** - RESTful APIs, MVC Pattern (**Java, Spring Boot**)
-- 🎨 **Frontend** - SPA, Responsive UI (**Vue.js, JS, Bootstrap**)
-- 🗄️ **Database** - SQL & NoSQL (**SQL Server, MongoDB**)
-- 🏗️ **Core** - Clean Code, **OOP & DSA**
-- 🛠️ **Workflow** - Version Control, API Testing (**Git, Postman**)
-
-📫 Reach me at: **khoivm1228@gmail.com**
+| Category           | Tools                                                                                                                                                                                                                                                                                                                                |
+| :----------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Languages**      | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)                                     |
+| **Frameworks**     | ![Spring](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Vue](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)      |
+| **Storage**        | ![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
+| **DevOps & Tools** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05033?style=flat-square&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)                             |
 
 ---
 
-## 🛠️ Tech Stack
-
-### Languages
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-
-### Frameworks & Technologies
-
-![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) <br>
-
-### Developer Tools & Databases
-
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
----
-
-## 📊 GitHub Analytics
+### 📊 GitHub Activity
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinhKhoixyz&layout=compact&theme=tokyonight&hide_border=true&title_color=36BCF7" height="150" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=MinhKhoixyz&theme=tokyonight&hide_border=true&title_color=36BCF7" height="150" alt="GitHub Streak" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=MinhKhoixyz&theme=tokyonight&hide_border=true&title_color=36BCF7" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MinhKhoixyz&theme=tokyo-night&hide_border=true&color=36BCF7" width="100%" alt="Activity Graph" />
 </div>
 
-<br>
+---
+
+### 🐍 Snake Game
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MinhKhoixyz&theme=tokyo-night&hide_border=true&color=36BCF7" alt="Activity Graph" />
+  <img src="https://raw.githubusercontent.com/MinhKhoixyz/MinhKhoixyz/output/github-contribution-grid-snake.svg" alt="Snake Game" />
 </div>
 
-## 🏆 GitHub Trophies
+---
 
-<div align="center">
-  <img src="https://github-trophies.vercel.app/?username=MinhKhoixyz&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
-</div>
+### 📬 Contact & Focus
+
+- **Working on:** Distributed systems and Microservices.
+- **Email:** [khoivm1228@gmail.com](mailto:khoivm1228@gmail.com)
